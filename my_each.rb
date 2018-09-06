@@ -1,5 +1,7 @@
 def my_each(words) # put argument(s) here
   # code here
-  while words.length
+  i = 0
+  while i<= words.length
+    i += 1
   end
 end
